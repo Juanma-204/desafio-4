@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 17.0.1, 2025-10-30T15:29:39. -->
+<!-- Written by QtCreator 17.0.1, 2025-10-30T17:53:37. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -169,7 +169,7 @@
      <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
      <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
      <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-     <value type="bool" key="RunConfiguration.UseTerminal">true</value>
+     <value type="bool" key="RunConfiguration.UseTerminal">false</value>
      <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/JuanManuel/Downloads/Informatica/Proyecto 4/Desafio_4/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug</value>
     </valuemap>
     <value type="qlonglong" key="ProjectExplorer.Target.RunConfigurationCount">1</value>
@@ -206,7 +206,7 @@
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="bool" key="RunConfiguration.UseTerminal">true</value>
+    <value type="bool" key="RunConfiguration.UseTerminal">false</value>
     <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/JuanManuel/Downloads/Informatica/Proyecto 4/Desafio_4/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug</value>
    </valuemap>
    <value type="qlonglong" key="ProjectExplorer.Target.RunConfigurationCount">1</value>
